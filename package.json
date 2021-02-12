@@ -1,0 +1,22 @@
+{
+  "name": "sunsets_locale",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "execa": "^3.4.0",
+    "perf_hooks": "^0.0.1",
+    "youtube-node": "^1.3.3",
+    "yt-search": "^1.1.2",
+    "youtube-search": "^1.1.4",
+    "ytdl": "^1.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
